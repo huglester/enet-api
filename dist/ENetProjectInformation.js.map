@@ -1,0 +1,1 @@
+{"version":3,"file":"ENetProjectInformation.js","sourceRoot":"","sources":["../src/ENetProjectInformation.ts"],"names":[],"mappings":";;AAGA,MAAM,sBAAsB;IAK1B,YAAY,YAAoB,EAAE,UAAkB,EAAE,kBAAgD;QACpG,IAAI,CAAC,YAAY,GAAG,YAAY,CAAC;QACjC,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,kBAAkB,GAAG,kBAAkB,CAAC;IAC/C,CAAC;CACF;AAGD,kBAAe,sBAAsB,CAAA"}
